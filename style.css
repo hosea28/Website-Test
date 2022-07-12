@@ -42,7 +42,7 @@ body {
 }
 
 .bigbtn {
-  padding: 20px 40px;
+  padding: 10px 20px;
   background: black;
   color: bisque;
   display: inline-block;
@@ -53,6 +53,7 @@ body {
 .header .nav-brand h1 a {
   text-decoration: none;
   color: black;
+  font-size: 20px;
 }
 .header .nav-menu ul {
   list-style: none;
