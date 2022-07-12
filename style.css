@@ -6,7 +6,7 @@ body {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  width: 90%;
+  width: 80%;
 }
 
 .d-flex {
@@ -117,4 +117,25 @@ body {
 }
 .category-item:hover img {
   filter: blur(3px);
+}
+
+.shopping-item {
+  width: 18%;
+}
+.shopping-item h3 {
+  margin-bottom: 5px;
+}
+.shopping-item h4 {
+  margin-bottom: 10px;
+}
+.shopping-item a {
+  letter-spacing: 2px;
+  font-size: 13px;
+  font-weight: bold;
+  color: black;
+}
+
+.footer {
+  background: black;
+  color: bisque;
 }/*# sourceMappingURL=style.css.map */
