@@ -96,7 +96,7 @@ body{
 //category
 .category{
     &-item{
-        height: 400px;
+        height: 380px;
         overflow: hidden;
         position: relative;
 
@@ -135,6 +135,17 @@ body{
             img{
                 filter: blur(3px);
             }
+        }
+    }
+}
+
+.shopping{
+    &-item{
+        margin: 20px;
+        a{
+            letter-spacing: 2px;
+            font-size: 13px;
+            font-weight: bold;
         }
     }
 }
